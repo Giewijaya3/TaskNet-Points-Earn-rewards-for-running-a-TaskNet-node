@@ -1,1 +1,1 @@
-# TaskNet-Points-Earn-rewards-for-running-a-TaskNet-node
+# TaskNet-Guide Running VPS with XRDP 
